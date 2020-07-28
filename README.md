@@ -11,6 +11,7 @@ However I am apolyglot and touches many languages when needed.
 
 TODO: WIP
 
+[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=ik5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ik5/ik5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
