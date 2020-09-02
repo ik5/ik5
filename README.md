@@ -7,7 +7,7 @@ My main programming languages are:
   - Ruby
   - Python
   
-However I am apolyglot and touches many languages when needed.
+However, I am a polyglot and can learn many languages when needed.
 
 TODO: WIP
 
